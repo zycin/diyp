@@ -56,6 +56,11 @@ CGTN-国际台,http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 
+熱播電影,#genre#
+你好李焕英,https://bilibili.xiang-kuyun.com/20210215/11581_edc20a8a/index.m3u8
+唐人街探案3,https://bilibili.xiang-kuyun.com/20210215/11582_e5549011/index.m3u8
+侍神令,https://bilibili.xiang-kuyun.com/20210215/11583_c5bfbf97/1000k/hls/index.m3u8
+
 香港,#genre#
 凤凰中文台,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
@@ -637,7 +642,7 @@ NDTVINDIA,p2p://860825993:18912/5b140a87000dc92517d6be2f7ee45257.ts
 News18,p2p://860825993:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
 TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 
-地方,#genre#
+川渝,#genre#
 重庆影视,http://219.153.252.50/PLTV/88888888/224/3221225638/chunklist.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/6geisy.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 重庆都市,http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
@@ -666,6 +671,8 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 成都影视,http://live.826pc.com/cdtv/live.php?id=45
 成都公共,http://live.826pc.com/cdtv/live.php?id=5
 成都少儿,http://live.826pc.com/cdtv/live.php?id=6
+
+云贵,#genre#
 贵州公共,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
 贵州影视,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
 贵州生活,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
@@ -693,6 +700,8 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 昆明文体娱乐,http://39.130.215.222:6610/gitv_live/G_KMTV-4/
 昆明影视综艺,http://39.130.215.222:6610/gitv_live/G_KMTV-5/
 昆明公共频道,http://39.130.215.222:6610/gitv_live/G_KMTV-6/
+
+京津冀,#genre#
 北京纪实,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 北京国际,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
 北京文艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221226435/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
@@ -716,11 +725,22 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 天津科教,http://notwhy.f3322.net:5000/udp/225.1.1.129:5002
 天津少儿,http://notwhy.f3322.net:5000/udp/225.1.1.125:5002
 天津4K,http://notwhy.f3322.net:5000/udp/225.1.1.156:5002
+河北都市,http://live5.plus.hebtv.com/hbdssl/sd/live.m3u8
+河北经济,http://live5.plus.hebtv.com/hbjjsl/sd/live.m3u8
+农民频道,http://live5.plus.hebtv.com/nmpdsl/sd/live.m3u8
+河北公共,http://live6.plus.hebtv.com/hbggsl/sd/live.m3u8
+河北影视,http://live6.plus.hebtv.com/hbyssl/sd/live.m3u8
+河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
+河南武术世界,http://39.135.139.214:6610/PLTV/88888888/224/3221225508/2/index.m3u8
+
+东三省,#genre#
 哈尔滨新闻,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 哈尔滨娱乐,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
 哈尔滨影视,http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 哈尔滨资讯,http://39.135.135.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 哈尔滨生活,http://39.135.135.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
+
+陕甘宁,#genre#
 甘肃公共应急,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
 甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
@@ -730,6 +750,16 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 兰州新闻综合,http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 兰州生活经济,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 兰州综艺体育,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
+陕西新闻资讯,http://111.20.45.157/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
+陕西生活,http://111.20.45.160/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
+陕西影视,http://111.20.45.167/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
+陕西公共,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+陕西体育休闲,http://111.20.45.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
+陕西西部电影,http://111.20.45.160/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
+陕西都市青春,http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
+
+
+江浙沪皖,#genre#
 安徽经视,http://zbbf2.ahtv.cn/live/750.m3u8
 安徽综艺,http://zbbf2.ahtv.cn/live/758.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/756.m3u8
@@ -749,14 +779,6 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 江苏休闲体育,http://223.110.241.150:6610/gitv/live1/G_JSTY/G_JSTY/
 江苏综艺,http://223.110.241.150:6610/gitv/live1/G_JSZY/G_JSZY/
 江苏靓妆,http://39.135.139.214:6610/PLTV/88888888/224/3221225509/2/index.m3u8
-江西都市,http://39.135.139.214:6610/PLTV/88888888/224/3221225584/2/index.m3u8
-江西经济,http://39.135.139.214:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-江西影视,http://39.135.139.214:6610/PLTV/88888888/224/3221225579/2/index.m3u8
-江西公共,http://39.135.139.214:6610/PLTV/88888888/224/3221225578/2/index.m3u8
-江西少儿,http://39.135.139.214:6610/PLTV/88888888/224/3221225577/2/index.m3u8
-江西新闻,http://39.135.139.214:6610/PLTV/88888888/224/3221225615/2/index.m3u8
-九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8 
-九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8 
 南京新闻综合,http://223.110.241.150:6610/gitv/live1/G_NJXW/G_NJXW/
 南京科教,http://223.110.241.150:6610/gitv/live1/G_NJJK/G_NJJK/
 南京十八,http://223.110.241.150:6610/gitv/live1/G_NJSB/G_NJSB/
@@ -784,6 +806,16 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 杭州生活,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
 杭州影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 杭州体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+
+中南地区,#genre#
+江西都市,http://39.135.139.214:6610/PLTV/88888888/224/3221225584/2/index.m3u8
+江西经济,http://39.135.139.214:6610/PLTV/88888888/224/3221225580/2/index.m3u8
+江西影视,http://39.135.139.214:6610/PLTV/88888888/224/3221225579/2/index.m3u8
+江西公共,http://39.135.139.214:6610/PLTV/88888888/224/3221225578/2/index.m3u8
+江西少儿,http://39.135.139.214:6610/PLTV/88888888/224/3221225577/2/index.m3u8
+江西新闻,http://39.135.139.214:6610/PLTV/88888888/224/3221225615/2/index.m3u8
+九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8 
+九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8 
 湖南经视,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000040
 湖南娱乐,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000042
 湖南电视剧,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000045
@@ -797,6 +829,8 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 先锋乒羽,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000080
 湖南教育,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000037
 茶频道,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
+
+华南地区,#genre#
 广州综合,http://hx.gerss.cn/dl/88888/gz.php?id=5c7f7072e4b01c17db18fbd5#http://www.ldiptv.xyz/daili/gztv.php?id=gzzh#http://120.221.226.226/aplay.gztv.com/sec/zhonghe.m3u8
 广州新闻,http://hx.gerss.cn/dl/88888/gz.php?id=5c7f6f73e4b01c17db18fbd3#http://www.ldiptv.xyz/daili/gztv.php?id=gzxw#http://120.221.226.226/aplay.gztv.com/sec/xinwen.m3u8
 广州影视,http://hx.gerss.cn/dl/88888/gz.php?id=5c7f70dce4b01c17db18fbdb#http://www.ldiptv.xyz/daili/gztv.php?id=gzys#http://120.221.226.226/aplay.gztv.com/sec/yingshi.m3u8
@@ -837,20 +871,8 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 福建经济,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 福建新闻,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-陕西新闻资讯,http://111.20.45.157/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-陕西生活,http://111.20.45.160/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-陕西影视,http://111.20.45.167/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-陕西公共,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-陕西体育休闲,http://111.20.45.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-陕西西部电影,http://111.20.45.160/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-陕西都市青春,http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-河北都市,http://live5.plus.hebtv.com/hbdssl/sd/live.m3u8
-河北经济,http://live5.plus.hebtv.com/hbjjsl/sd/live.m3u8
-农民频道,http://live5.plus.hebtv.com/nmpdsl/sd/live.m3u8
-河北公共,http://live6.plus.hebtv.com/hbggsl/sd/live.m3u8
-河北影视,http://live6.plus.hebtv.com/hbyssl/sd/live.m3u8
-河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
-河南武术世界,http://39.135.139.214:6610/PLTV/88888888/224/3221225508/2/index.m3u8
+
+
 
 
 影视,#genre#
@@ -959,6 +981,7 @@ BESTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8#http://117
 刘老师说电影,http://diyp.top/huya.php?id=20289754
 来呀官人,http://diyp.top/huya.php?id=15763558
 恐怖地带,http://diyp.top/huya.php?id=16741179
+
 记录,#genre#
 求索动物,http://117.148.187.83/PLTV/88888888/224/3221226695/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 求索纪录,http://112.17.40.154/PLTV/88888888/224/3221226610/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
