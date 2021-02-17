@@ -1,4 +1,3 @@
-### [返回首頁](https://tvsee.github.io/diyp/)
 # DIYP影音经典版 强大且良心的盒子直播
 
 DIYP影音，这是一个盒子播放器，非常不错的盒子播放器，支持的解码类型非常多，基本上常见的都支持；
@@ -27,7 +26,7 @@ DIYP影音，这是一个盒子播放器，非常不错的盒子播放器，支�
 
 
 
-直播源：``` https://tvsee.github.io/diyp/tv.txt ```
+最新直播源：``` https://tvsee.github.io/diyp/tv.txt ```
 
 此软件非常好的一个地方就是内置有epg，导入源之后会自行匹配；
 
@@ -50,3 +49,6 @@ DIYP影音，这是一个盒子播放器，非常不错的盒子播放器，支�
 
 喜欢DIY看电视的，不妨试试这个； [點擊下載 Download](http://tvsee.github.io/diyp/DIYP%E5%BD%B1%E9%9F%B3%E7%BB%8F%E5%85%B8%E7%89%88.apk)
 
+
+
+### [返回首頁](https://tvsee.github.io/diyp/)
