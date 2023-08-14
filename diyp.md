@@ -47,7 +47,7 @@ DIYP影音，这是一个盒子播放器，非常不错的盒子播放器，支�
 
                                         
 
-喜欢DIY看电视的，不妨试试这个； [點擊下載 Download](http://tvsee.github.io/diyp/DIYP%E5%BD%B1%E9%9F%B3%E7%BB%8F%E5%85%B8%E7%89%88.apk)
+喜欢DIY看电视的，不妨试试这个； [點擊下載 Download](http://x-x-xxx.github.io/diyp/DIYP%E5%BD%B1%E9%9F%B3%E7%BB%8F%E5%85%B8%E7%89%88.apk)
 
 
 
