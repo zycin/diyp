@@ -9,6 +9,7 @@
 
  
 - [在線直播源](http://x-x-xxx.github.io/diyp/tv.txt)
+- [在線直播源-2404](http://x-x-xxx.github.io/diyp/tv-2024-04.txt)
 - [在線電影源](http://x-x-xxx.github.io/diyp/mov.txt)
 
 1. [DIYP經典版下載](http://x-x-xx.github.io/diyp/DIYP%E5%BD%B1%E9%9F%B3%E7%BB%8F%E5%85%B8%E7%89%88.apk)
