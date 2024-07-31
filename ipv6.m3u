@@ -48,13 +48,13 @@ http://live.iill.top/douyu.php?id=6140589
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="常看频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot01.png" group-title="常看频道",iHOT爱院线
+#EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot01.png" group-title="常看频道",iHOT爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot02.png" group-title="常看频道",iHOT爱科幻
+#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot02.png" group-title="常看频道",iHOT爱科幻
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV23.png" group-title="常看频道",超级电影
+#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV23.png" group-title="常看频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV10.png" group-title="常看频道",惊悚悬疑
+#EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV10.png" group-title="常看频道",惊悚悬疑
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="常看频道",求索纪录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
