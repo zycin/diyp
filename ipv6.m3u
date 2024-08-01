@@ -149,11 +149,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游频道
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶友频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
