@@ -54,7 +54,7 @@ http://113.116.196.225:4022/udp/239.77.0.165:5146
 #http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://113.116.196.225:4022/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="常看频道",CHC影迷电影
 http://27.17.205.98:8118/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="常看频道",CHC动作电影
